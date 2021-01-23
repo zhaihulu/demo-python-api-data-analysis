@@ -3,7 +3,7 @@ dependencies:
   - pip:
     - numpy
     - ipykernel
-    - statsmodels == 0.8.0
+    - statsmodels
     - plotnine
     - seaborn
     - requests
