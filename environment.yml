@@ -1,6 +1,7 @@
 dependencies:
   - python=3
   - pip:
+    - numpy
     - ipykernel
     - statsmodels == 0.8.0
     - plotnine
