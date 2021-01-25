@@ -5,6 +5,7 @@ name = "pypi"
 
 [packages]
 ipykernel = "*"
+pandas= "0.19.2"
 plotnine = "*"
 requests = "*"
 
